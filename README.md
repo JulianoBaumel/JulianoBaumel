@@ -5,8 +5,8 @@
 
 <div align="center">
   <h2>Status</h2>
-  <img height="186rem" src="https://github-readme-stats.vercel.app/api?username=JulianoBaumel&hide=stars&show_icons=true&hide_border=true&theme=vision-friendly-dark"/>
-  <img height="186rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoBaumel&layout=compact&hide_border=true&theme=vision-friendly-dark"/>
+  <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=JulianoBaumel&hide=stars&show_icons=true&hide_border=true&theme=vision-friendly-dark"/>
+  <img height="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoBaumel&layout=compact&hide_border=true&theme=vision-friendly-dark"/>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/juliano-baumel/">
