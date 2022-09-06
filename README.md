@@ -20,8 +20,6 @@
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></td>
-    <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg"/></td>
-    <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg"/></td>
     <td align="center"><img height="40rem" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo716.png"/></td>
   </tr>  
 </table>
@@ -29,6 +27,8 @@
 <h3>📖 I'm currently learning...<h3>
 <table>
   <tr>
+    <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg"/></td>
+    <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
