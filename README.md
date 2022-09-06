@@ -10,7 +10,6 @@
 </div>
 
 
-
 <h3>💻 I’m currently working with ...<h3>
 <table>
   <tr>
@@ -32,13 +31,9 @@
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" /></td>
   </tr>
 </table>
 
