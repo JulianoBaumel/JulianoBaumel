@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there 👋, I`m Juliano 🧑‍💻</h1>
   </br>
-  <p>Sharepoint Developer at Stefanini Brasil</p>
+  <p>Sharepoint Developer at <a href="https://impar.com.br/">Ímpar</a></p>
   </br>
   
   <img height="148rem" src="https://user-images.githubusercontent.com/45412979/188247119-44d5a798-1097-4960-ac68-b5f4fdd70e73.gif" />
@@ -14,26 +14,40 @@
 <table>
   <tr>
     <td align="center"><img height="40rem" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></td>
-    <td align="center"><img height="40rem" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo716.png"/></td>
-  </tr>  
-</table>
-
-<h3>📖 I'm currently learning...<h3>
-<table>
-  <tr>
     <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg"/></td>
     <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></td>
+  </tr>  
+</table>
+  
+<h3>💡 Other knowledge...<h3>
+<table>
+  <tr>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></td>
+    <td align="center"><img height="40rem" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo716.png"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/></td>
+  </tr>  
+</table>
+    
+<h3>📖 I'm currently learning...<h3>
+<table>
+  <tr>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/></td>
+    <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/></td>
   </tr>
 </table>
 
