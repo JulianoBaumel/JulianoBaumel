@@ -31,7 +31,6 @@
 <h3>💡 Other knowledge...<h3>
 <table>
   <tr>
-    <td align="center"><img height="40rem" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></td>
     <td align="center"><img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></td>
